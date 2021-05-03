@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo Java ile Backend Web Development Patikasında oluşturduğum ilk repo.İçerisinde bir adet README.md , bir adet index.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java ile Backend Web Development Patikasında oluşturduğum ilk repo.İçerisinde bir adet README.md , bir adet index.html dosyası barındırıyor.
 
 ## Installation
 
