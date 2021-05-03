@@ -6,7 +6,7 @@ Bu repo Java ile Backend Web Development Patikasında oluşturduğum ilk repo.İ
 
 Öncelikle projeyi klonlayın.
 
- 'git clone https://github.com/uUMUTt/kodluyoruzilkrepo.git'
+ `git clone https://github.com/uUMUTt/kodluyoruzilkrepo.git `
 
 ## Usage
 
@@ -14,10 +14,10 @@ Projeyi klonladıktan sonra Visual Studio Code programından açınız.
 
 Windows için:
 
- '''
+ ```
  cd kodluyoruzilkrepo
  code .
- '''
+ ```
 
 ## Contributing
 
