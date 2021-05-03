@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java ile Backend Web Developme
 Öncelikle projeyi klonlayın.
 
 ```
- git clone https://github.com/uUMUTt/kodluyoruzilkrepo.git `
+ git clone https://github.com/uUMUTt/kodluyoruzilkrepo.git 
 ```
 
 ## Usage
